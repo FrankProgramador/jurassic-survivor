@@ -1,0 +1,30 @@
+Lista de coisas a serem implantadas para a versão alpha
+
+(X) Jogador pode se mover para as 4 direções e na diagonal
+(X) Jogador sofre com sede e fome, e precisa comer e beber
+(X) Inimigos seguem o jogador de forma inteligente, baseado na proximidade
+( ) Inimigos de certos tipos chamam inimigos próximos da mesma espécie para a caçada
+(X) Jogador pode despistar inimigos, correndo deles a uma distância segura 
+( ) Outra forma de escapar é se esconder no mato, mas só funciona a uma certa distância
+( ) Além de plantas rasteiras devem existir árvores que soltam frutos
+( ) Frutos apodrecem depois de um tempo e, caso ingeridos, causam doença
+(X) Plantas tóxicas que causam doença se ingeridas
+(X) Sistema de dia / noite *** Precisa ser revisado
+( ) Sistema de abrigos (Cavernas / buracos)
+( ) Durante a noite o jogador precisa de um abrigo para descansar, caso não descanse ele acumula fadiga
+( ) Fadiga prejudica a velocidade e e os controles, com muita fadiga existe a perda de vida
+( ) Placar com melhores resultados no modo Sobrevivência
+( ) Pelo menos 10 fases do modo Jornada
+
+***Modos de jogo***
+
+ - Jornada - 
+ O jogador deve chegar ao destino em um mapa pré montado. 
+ Alguns objetivos devem ser cumpridos
+
+ - Sobrevivência - 
+ Em um mapa gerado randomicamente o jogador deve sobreviver o maior tempo possível. 
+ O ambiente fica mais hostil com o passar do tempo
+ Inimigos ficam mais fortes, rápidos e adquirem uma "visão" melhor com o passar do tempo
+ 
+
